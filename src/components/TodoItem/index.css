@@ -1,0 +1,9 @@
+/* Write your CSS here */
+
+.list-con {
+  list-style-type: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
